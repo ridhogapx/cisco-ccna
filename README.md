@@ -1,5 +1,5 @@
 # cisco-ccna
-Repository ini untuk dokumentasi belajar guna mempersiapkan ujian Cisco CCNA sebagai Network Engineer / Teknisi Jaringan 
+Repository ini untuk dokumentasi belajar guna mempersiapkan ujian Cisco CCNA sebagai Network Engineer / Teknisi Jaringan. Penjelasan materi yang saya jabarkan di sini adalah murni hasil translasi saya dari berbagai sumber. Dengan kata lain translasi ini 99% akurat karena tidak menggunakan mesin penerjamah / translasi.
 
 # Physical Layer / Lapisan Fisik
 <img src='./img/physical_layer.png'>
@@ -17,4 +17,3 @@ Repository ini untuk dokumentasi belajar guna mempersiapkan ujian Cisco CCNA seb
 # Tujuan Physical Layer / Lapisan Fisik
 <p>Saat terhubung ke printer baik di rumah saat di kantor, sebelum jaringan dapat berkomunasi, koneksi fisik ke jaringan lokal akan terjadi.</p>
 <p>Jenis / tipe koneksi tergantung dari setup / peralatan jaringan. Misalnya saja, di berbagai kantor perusahaan, karyawan memiliki PC Desktop atau laptop yang terhubung ke jaringan secara fisik. Janis jaringan ini disebut jaringan kabel atau biasa disebut <i>Wired Network</i>. Data ditransmisikan lewat kabel fisik</p>
- 
