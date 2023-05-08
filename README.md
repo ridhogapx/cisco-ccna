@@ -16,4 +16,15 @@ Repository ini untuk dokumentasi belajar guna mempersiapkan ujian Cisco CCNA seb
 
 # Tujuan Physical Layer / Lapisan Fisik
 <p>Saat terhubung ke printer baik di rumah saat di kantor, sebelum jaringan dapat berkomunasi, koneksi fisik ke jaringan lokal akan terjadi.</p>
-<p>Jenis / tipe koneksi tergantung dari setup / peralatan jaringan. Misalnya saja, di berbagai kantor perusahaan, karyawan memiliki PC Desktop atau laptop yang terhubung ke jaringan secara fisik. Janis jaringan ini disebut jaringan kabel atau biasa disebut <i>Wired Network</i>. Data ditransmisikan lewat kabel fisik</p>
+<p>Jenis / tipe koneksi tergantung dari setup / peralatan jaringan. Misalnya saja, di berbagai kantor perusahaan, karyawan memiliki PC Desktop atau laptop yang terhubung ke jaringan secara fisik. Janis jaringan ini disebut jaringan kabel atau biasa disebut <i>Wired Network</i>. Data ditransmisikan lewat kabel fisik.</p>
+
+<p>Selain itu, banyak perusahaan yang menawarkan jaringan <i>wireless</i> atau koneksi tanpa kabel. Dengan begini data akan dikirimkan melalu gelombang radio. Sebuah peralatan jaringan <i>wireless</i> harus dikoneksikan ke perangkat yang bernama <i>Access Point</i>(AP) maupun <i>Wireless Router</i> seperti yang ditunjukkan gambar berikut</p>
+
+# Wireless Router
+<img src='./img/access_point.jpg'>
+<p>Berikut komponent yang ada pada Access Point: </p>
+<ul>
+	<li>Antena Wireless</li>
+	<li>Switch port</li>
+	<li>Internet port</li>
+</ul>
