@@ -13,3 +13,8 @@ Repository ini untuk dokumentasi belajar guna mempersiapkan ujian Cisco CCNA seb
 	<li>Ketika data <i>ter-encoded</i> oleh lapisan fisik, data tidak dikirim dalam waktu yang bersamaan</li>
 	<li>Frame adalah PDU yang diterima oleh lapisan fisik saat proses transimisi data</li>
 </ul>
+
+# Tujuan Physical Layer / Lapisan Fisik
+<p>Saat terhubung ke printer baik di rumah saat di kantor, sebelum jaringan dapat berkomunasi, koneksi fisik ke jaringan lokal akan terjadi.</p>
+<p>Jenis / tipe koneksi tergantung dari setup / peralatan jaringan. Misalnya saja, di berbagai kantor perusahaan, karyawan memiliki PC Desktop atau laptop yang terhubung ke jaringan secara fisik. Janis jaringan ini disebut jaringan kabel atau biasa disebut <i>Wired Network</i>. Data ditransmisikan lewat kabel fisik</p>
+ 
