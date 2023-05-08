@@ -2,6 +2,7 @@
 Repository ini untuk dokumentasi belajar guna mempersiapkan ujian Cisco CCNA sebagai Network Engineer / Teknisi Jaringan 
 
 # Physical Layer / Lapisan Fisik
+<img src='./img/physical_layer.png'>
 <p>Physical Layer atau biasa disebut lapisan fisik berfungsi untuk mengirim data dalam bentuk <i>bits</i> ke lapisan atasnya yaitu <i>Data Link</i> </p>
 
 <p>Lapisan fisik ini meneruskan <i>frame</i> dari <i>Data Link</i> lalu <i>meng-encode</i> sinyal yang ditransmisikan ke media local</p>
